@@ -2,7 +2,7 @@ import { Topics } from "./components/Topics";
 import {  CoffeePicture, InfoComponent, SubTitle, Title  } from "./styles";
 import coffeeDesign from '../../assets/coffeeDesign.svg';
 
-export function Info(){
+export function Home(){
 	return (
 	<InfoComponent>
 			<Title id="Title">

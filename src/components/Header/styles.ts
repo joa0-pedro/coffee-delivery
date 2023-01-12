@@ -14,16 +14,16 @@ export const HeaderContainer = styled.div`
 	height: 104px;
 
 	align-items: center;
+
+	a{
+		box-shadow: 0 0 0 0;
+	}
 `
 
 export const Logo = styled.div`
 	margin-right: auto;
-
-	img {
 	margin-top: 2rem;
 	margin-bottom: 2rem;
-	}
-
 `
 
 export const Address = styled.div`
