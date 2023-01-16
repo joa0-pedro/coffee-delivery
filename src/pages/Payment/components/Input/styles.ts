@@ -11,6 +11,6 @@ export const BaseInputTheme = styled.input`
 	margin-right: 0.75rem;
 `
 export const PaymentInput = styled.div`
-	margin: 2.5rem;
-	margin-right: 1.75rem;
+	margin-top: 2rem;
+	margin-right: -1.25rem;
 `

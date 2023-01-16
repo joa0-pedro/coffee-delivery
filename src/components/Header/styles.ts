@@ -38,7 +38,6 @@ export const Address = styled.div`
 		color: ${props => props.theme['purple-200']};
 
 	}
-
 `
 
 export const Content = styled.div`
